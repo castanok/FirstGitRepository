@@ -1,0 +1,41 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background: black;
+}
+
+h5 {
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0;
+  line-height: 28px;
+}
+
+h5,
+h6 {
+  color: #28df99;
+}
+
+h4,
+p {
+  color: #d2f6c5;
+}
+
+.card {
+  background: black;
+}
+
+.fa-cloud-sun,
+.card-text {
+  text-align: right;
+}
+
+.col,
+.row {
+  font-weight: 50;
+  text-align: center;
+}
+
+.form-control:read-write {
+  color: white !important;
+  background-color: black;
+}
