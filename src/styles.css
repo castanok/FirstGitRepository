@@ -20,6 +20,11 @@ p {
   color: #d2f6c5;
 }
 
+footer {
+  color: white;
+  font-size: 15px;
+}
+
 .card {
   background: black;
 }
